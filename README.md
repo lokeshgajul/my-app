@@ -1,3 +1,3 @@
 # Getting Started with Create React App
-TExtUtils App
+TextUtils App
 link: - https://lokeshgajul.github.io/my-app/
